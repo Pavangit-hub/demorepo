@@ -10,3 +10,5 @@ echo "*************** Display jenkins memory *************"
 free -m
 
 cal
+
+uname -r
