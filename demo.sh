@@ -12,3 +12,4 @@ free -m
 cal
 
 uname -r
+
