@@ -10,3 +10,6 @@ echo "*************** Display jenkins memory *************"
 free -m
 
 echo "hello world" 
+
+
+ddwjkchhvjwdqefhnwmdcn
