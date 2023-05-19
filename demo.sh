@@ -9,7 +9,6 @@ date
 echo "*************** Display jenkins memory *************"
 free -m
 
-echo "hello world" 
+echo "hello world"
 
-
-ddwjkchhvjwdqefhnwmdcn
+uname -r
